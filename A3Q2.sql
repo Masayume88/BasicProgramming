@@ -6,3 +6,4 @@ WHERE
   quiz_type = 'image checklist'
 ORDER BY
   published
+LIMIT 1
