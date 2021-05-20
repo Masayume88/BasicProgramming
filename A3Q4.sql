@@ -5,5 +5,5 @@ FROM
 WHERE
   quiz_type = 'image checklist'
 ORDER BY
-  published ASC
+  published DESC
 LIMIT 1
